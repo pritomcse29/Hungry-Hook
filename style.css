@@ -1,5 +1,5 @@
 body{
-    margin:0px;
+    margin-top: 50px;
     padding:0px;
     font-family: 'Poppins', sans-serif;
 }
@@ -33,6 +33,11 @@ body{
 .female-person-image{
     height: 72%;
 }
+.text-style1{
+    margin-left: 25px;
+    font-size:50px;
+    margin-top: -20px;
+}
 
 .text-style2{
     margin-bottom: 100px;
@@ -46,12 +51,12 @@ body{
     font-size: 16px;
 }
 .third-width{
-    width: 35%;
+    width: 40%;
     box-shadow: 10px 10px 40px gray;
     margin-left: 5%;
     margin-right: 5%;
     margin-bottom: 50px;
-    border-radius: 30px;
+    border-radius: 25px;
 }
 .third-width img{
     width: 90%;
@@ -83,4 +88,17 @@ footer{
     color: white;
 
 
+}
+.anchor-position{
+
+    margin-left: 500px;
+    text-decoration: none;
+    padding: 15px 40px;
+    background-image: linear-gradient(orange,red);
+    border-radius: 20px;
+}
+.nav-part{
+    padding-left: 5%;
+    font-size: 25px;
+    margin-top: -25px;
 }
