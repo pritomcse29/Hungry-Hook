@@ -3,6 +3,11 @@ body{
     padding:0px;
     font-family: 'Raleway', sans-serif;
 }
+.nav-part{
+    padding-left: 3%;
+    font-size: 25px;
+    margin-top: -25px;
+}
 .orange-color{
     color: orange;
 }
@@ -11,36 +16,19 @@ body{
 }
 .half-width{
     width: 50%;
-    padding: 5%;
-    
-}
-.text-style{
-    font-size: 40px;
+    padding: 5%; 
 }
 .half-width img{
     width: 80%;
 }
-.linked-anchor{
-    text-decoration: none;
-    padding: 15px 40px;
-    background-image: linear-gradient(orange,red);
-    border-radius: 20px;
-    color: white;
-}
-.back-image{
-    background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;
-    background-size: 100% ;
-}
-.female-person-image{
-    height: 72%;
+.text-style{
+    font-size: 40px;
 }
 .text-style1{
     margin-left: 25px;
     font-size:50px;
     margin-top: -20px;
 }
-
 .text-style2{
     margin-bottom: 100px;
     font-size: 25px;
@@ -51,6 +39,21 @@ body{
 .text-style4{
     text-align: center;
     font-size: 16px;
+}
+.linked-anchor{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-image: linear-gradient(orange,red);
+    border-radius: 20px;
+    color: white;
+}
+.backg-image{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 100% ;
+}
+.backg-image-height{
+    height: 72%;
 }
 .third-width{
     width: 20%;
@@ -64,18 +67,13 @@ body{
     width: 90%;
     padding: 5%;
 }
+.third-width p,h3{
+    padding-left: 15px;
+}
 .MY-recipie{
     margin-bottom: 70px;
     margin-top: -150px;
 }
-/*.offer-extra-part-image{
-  height: 33%;
-  width: 20%;
-}
-.text-style5{
-    margin-left: 200px;
-}*/
-
 .third-part{
     padding-left:40px;
     padding-right:25px;
@@ -86,38 +84,26 @@ body{
     border-radius: 15px;
     justify-content: space-between;
     margin-bottom: 80px;
-
+}
+.third-part p{
+    font-size: 14px;
 }
 footer{
     padding: 30px 0px 50px 0px;
     background-color: black;
     text-align: center;
-    color: white;
-    
+    color: white;  
 }
 .anchor-position{
-
     margin-left: 500px;
     text-decoration: none;
     padding: 15px 40px;
     background-image: linear-gradient(orange,red);
     border-radius: 20px;
-    color: white;
-    
-}
-.nav-part{
-    padding-left: 3%;
-    font-size: 25px;
-    margin-top: -25px;
+    color: white; 
 }
 span h1{
     font-size: 35px;
-}
-.third-width p,h3{
-    padding-left: 15px;
-}
-.third-part p{
-    font-size: 14px;
 }
 #space{
    padding-bottom: 35px;
