@@ -57,7 +57,7 @@ body{
     box-shadow: 10px 10px 40px gray;
     margin-left: 7%;
     margin-right: 5%;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     border-radius: 25px;
 }
 .third-width img{
@@ -77,13 +77,15 @@ body{
 }
 
 .third-part{
-    padding:50px;
+    padding-left:40px;
+    padding-right:25px;
+    padding-bottom: 10px;
     width: 1500px;
     box-shadow: 10px 10px 40px gray;
     margin:2% 6%;
-    border-radius: 25px;
+    border-radius: 15px;
     justify-content: space-between;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 
 }
 footer{
@@ -113,6 +115,9 @@ span h1{
 }
 .third-width p,h3{
     padding-left: 15px;
+}
+.third-part p{
+    font-size: 14px;
 }
 #space{
    padding-bottom: 35px;
